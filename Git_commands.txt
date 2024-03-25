@@ -1,0 +1,6 @@
+Git commands:
+status
+add
+commit -m
+log
+checkout
